@@ -22,7 +22,7 @@ public class Kotik {
     private String meow;
 
     //кол-во экземпляров начало
-    public static int NumOfObject = -1;
+    public static int NumOfObject;
     public Kotik()
     {
         NumOfObject++;
@@ -32,7 +32,6 @@ public class Kotik {
 
     public void setKotik(int prettiness, String Name, double weight, String meow)
     {
-        NumOfObject++;
         this.prettiness = prettiness;
         this.Name = Name;
         this.weight = weight;
