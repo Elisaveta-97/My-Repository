@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/pageobject/AbsPageObject.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/driver/IDriver.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/driver/ChromeWebDriver.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/waiters/Waiters.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/extensions/PathEmptyException.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/extensions/UIExtensions.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/UrlTemplates.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/Driver.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/Template.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/Path.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/pages/AbsBasePage.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/pages/MainPage.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/factory/FactoryDriver.java">
+</file>
+<file name="/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/test/java/main/OtusTest.java">
+</file>
+</checkstyle>

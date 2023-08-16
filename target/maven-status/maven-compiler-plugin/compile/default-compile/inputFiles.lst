@@ -1,0 +1,13 @@
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/driver/IDriver.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/waiters/Waiters.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/extensions/UIExtensions.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/Driver.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/driver/ChromeWebDriver.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/Template.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/extensions/PathEmptyException.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/pages/MainPage.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/UrlTemplates.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/Path.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/factory/FactoryDriver.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/pageobject/AbsPageObject.java
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/pages/AbsBasePage.java

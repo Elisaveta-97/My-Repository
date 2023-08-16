@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: main.OtusTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.301 s <<< FAILURE! - in main.OtusTest
+testArticleThumbs  Time elapsed: 2.298 s  <<< ERROR!
+java.lang.NullPointerException
+	at main.OtusTest.testArticleThumbs(OtusTest.java:18)
+

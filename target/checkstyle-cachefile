@@ -1,0 +1,16 @@
+#Mon Jul 24 21:01:58 SAMT 2023
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/Driver.java=1689331423378
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/Path.java=1690196951896
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/Template.java=1690198077375
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/annotations/UrlTemplates.java=1690198267371
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/driver/ChromeWebDriver.java=1690216332288
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/driver/IDriver.java=1690214161976
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/extensions/PathEmptyException.java=1690197443881
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/extensions/UIExtensions.java=1690218116603
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/factory/FactoryDriver.java=1690216268066
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/pageobject/AbsPageObject.java=1690206862612
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/pages/AbsBasePage.java=1690217945191
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/pages/MainPage.java=1690216442688
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/main/java/waiters/Waiters.java=1690206862616
+/Users/elizavetadruzinina/IdeaProjects/My-Repository/src/test/java/main/OtusTest.java=1690217517538
+configuration*?=64AC621BF841154A2B6FF77A8DE7F7BBA94AB7FA
