@@ -3,10 +3,12 @@ package services;
 import dto.UserDTO;
 import dto.UserIdDTO;
 import io.restassured.http.ContentType;
+import io.restassured.module.jsv.JsonSchemaValidator;
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
 
 import static io.restassured.RestAssured.given;
+import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath;
 
 public class PetApi {
 
@@ -40,5 +42,15 @@ public class PetApi {
             .post()
             .then()
             .log().all();
+    }
+
+    public ValidatableResponse getUserName(String url,String schema, int code) {
+
+        return given(spec)
+            .when()
+            .get(url)
+            .then()
+            .statusCode(code)
+            .body(matchesJsonSchemaInClasspath(schema));
     }
 }
