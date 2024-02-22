@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f2a3f69-7a4e-4ca9-b207-be097c47186e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/otus/tests/FirstTestGetUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/citrus-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/citrus.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/otus/SampleXmlIT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/annotations/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/annotations/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/annotations/Path.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/annotations/Template.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/annotations/UrlTemplates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/driver/ChromeWebDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/driver/IDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/extensions/PathEmptyException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/extensions/UIExtension1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/extensions/UIExtensions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/factory/FactoryDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/listeners/MouseListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pageobject/AbsPageObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pages/AbsBasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pages/ArticlePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pages/MainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/waiters/Waiters.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2cinmV6GscZlkaEDFEZJC8MZQrt" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/elizavetadruzinina/IdeaProjects/My-Repository/2202",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="FirstTestGetUser.getTestAction" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="2202" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="otus.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="otus.tests" />
+      <option name="MAIN_CLASS_NAME" value="otus.tests.FirstTestGetUser" />
+      <option name="METHOD_NAME" value="getTestAction" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FirstTestGetUser.getTestAction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f2a3f69-7a4e-4ca9-b207-be097c47186e" name="Changes" comment="" />
+      <created>1708603426129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708603426129</updated>
+    </task>
+    <servers />
+  </component>
+</project>
