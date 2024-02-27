@@ -4,38 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f2a3f69-7a4e-4ca9-b207-be097c47186e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/otus/tests/FirstTestGetUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/citrus-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/citrus.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/otus/SampleXmlIT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/annotations/Component.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/annotations/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/annotations/Path.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/annotations/Template.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/annotations/UrlTemplates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/driver/ChromeWebDriver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/driver/IDriver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/extensions/PathEmptyException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/extensions/UIExtension1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/extensions/UIExtensions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/factory/FactoryDriver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/listeners/MouseListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/pageobject/AbsPageObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/pages/AbsBasePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/pages/ArticlePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/pages/MainPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/waiters/Waiters.java" beforeDir="false" />
+    <list default="true" id="5f2a3f69-7a4e-4ca9-b207-be097c47186e" name="Changes" comment="citrus">
+      <change afterPath="$PROJECT_DIR$/src/test/java/otus/pojo/CreateUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/otus/pojo/CreateUserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/otus/pojo/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/otus/pojo/Support.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/otus/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/otus/tests/FirstTestCreateUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/otus/tests/FirstTestDataProviderGetUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/otus/tests/FirstTestDataProviderGreateUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/json/user2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/otus/tests/FirstTestGetUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/otus/tests/FirstTestGetUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/citrus-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/citrus-context.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +33,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="42fa0b14-ffa0-488e-9169-3a33f147f0a6" />
+        <option name="url" value="https://github.com/Elisaveta-97/My-Repository.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -62,7 +59,6 @@
   <component name="ProjectId" id="2cinmV6GscZlkaEDFEZJC8MZQrt" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -74,7 +70,58 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="otus.tests" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+      <command value="mvn test -Dtest=FirstTestGetUser" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.FirstTestDataProviderGetUser.getTestAction">
+    <configuration name="FirstTestCreateUser.getTestAction" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="2202" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="otus.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="otus.tests" />
+      <option name="MAIN_CLASS_NAME" value="otus.tests.FirstTestCreateUser" />
+      <option name="METHOD_NAME" value="getTestAction" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTestDataProviderGetUser.getTestAction" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="2202" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="otus.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="otus.tests" />
+      <option name="MAIN_CLASS_NAME" value="otus.tests.FirstTestDataProviderGetUser" />
+      <option name="METHOD_NAME" value="getTestAction" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstTestGetUser.getTestAction" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="2202" />
       <extension name="coverage">
@@ -95,6 +142,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FirstTestDataProviderGetUser.getTestAction" />
+        <item itemvalue="TestNG.FirstTestCreateUser.getTestAction" />
         <item itemvalue="TestNG.FirstTestGetUser.getTestAction" />
       </list>
     </recent_temporary>
@@ -108,6 +157,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708603426129</updated>
     </task>
+    <task id="LOCAL-00001" summary="citrus">
+      <option name="closed" value="true" />
+      <created>1708609757636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708609757636</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="citrus" />
+    <option name="LAST_COMMIT_MESSAGE" value="citrus" />
   </component>
 </project>
